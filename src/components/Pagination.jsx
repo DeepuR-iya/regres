@@ -1,7 +1,6 @@
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 
 export default function Pagination({ page, setPage, totalPages }) {
-  // Generate unique page numbers
   const pageNumbers = [
     ...new Set([...Array(totalPages).keys()].map((n) => n + 1)),
   ];
