@@ -125,23 +125,3 @@ export default function Users() {
   );
 }
 
-{
-  /* <div key={user.id} className="border p-4">
-              <img src={user.avatar} className="w-20 h-20 rounded-full" />
-              <p>
-                {user.first_name} {user.last_name}
-              </p>
-              <button
-                onClick={() => navigate(`/edit-user/${user.id}`)}
-                className="bg-blue-500 text-white px-2 py-1 rounded-md"
-              >
-                Edit
-              </button>
-              <button
-                onClick={() => handleDelete(user.id)}
-                className="bg-red-500 text-white px-2 py-1 ml-2 rounded-md"
-              >
-                Delete
-              </button>
-            </div> */
-}
