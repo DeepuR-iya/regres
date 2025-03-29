@@ -1,6 +1,6 @@
 # How to run the project
 
-step1: Clone the project using "https://github.com/DeepuR-iya/regres.git" or download the zip file
+step1: Clone the project using "https://github.com/DeepuR-iya/reqres.git" or download the zip file
 
 step2: Unzip if downloaded zip file, then open the project folder in vscode or your favourite termimal
 
