@@ -1,12 +1,17 @@
-# React + Vite
+# How to run the project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+step1: Clone the project using "https://github.com/DeepuR-iya/regres.git" or download the zip file
 
-Currently, two official plugins are available:
+step2: Unzip if downloaded zip file, then open the project folder in vscode or your favourite termimal
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+step3: chage the directory to the project folder in the terminal (ex:"cd regres")
 
-## Expanding the ESLint configuration
+step4: Install all the dependencies by using "npm i or npm install" in the terminal
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+step5: Run the project locally using "npm run dev"
+
+step6: visit "http://localhost:5173/" to visit the project if no projects are running are open in that port.
+
+To see the working version of project:
+please visit - "https://reqres-assignment.netlify.app/"
+where i have hosted the project using netlify.
